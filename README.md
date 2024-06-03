@@ -1,7 +1,7 @@
 ![I am GitHub Readme Generator's creator](https://github.com/momenur/momenur/blob/main/cover.png)
 
-<h1 align="center">Fropntend Developer</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h1 align="center">Front-End Developer</h1>
+<h3 align="center">A passionate front-End developer from Bangladesh</h3>
 
 - 🌱 I’m currently learning **NODE JS**
 
