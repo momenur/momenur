@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NODE JS**
 
-- 👨‍💻 All of my projects are available at [https://665d979400379245fb0f339d--rainbow-paprenjak-cde8ae.netlify.app](https://665d979400379245fb0f339d--rainbow-paprenjak-cde8ae.netlify.app)
+- 👨‍💻 All of my projects are available at [https://momenul.vercel.app]
 
 - 💬 Ask me about **ReactJS,NextJS,Typescript**
 
